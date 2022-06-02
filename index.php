@@ -1,1 +1,3 @@
-<? echo "Hola que tal"; ?>
+<? echo "Hola que tal"; 
+echo "Probando GIT"
+?>
