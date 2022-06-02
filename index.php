@@ -1,3 +1,3 @@
 <? 
-echo "Probando GIT y Visual Studio Code";
+echo "Probando GIT y Visual Studio Code :)";
 ?>
