@@ -1,1 +1,1 @@
-<? echo "Hola ql"; ?>
+<? echo "Hola que tal"; ?>
