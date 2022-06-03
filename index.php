@@ -1,3 +1,3 @@
 <? 
-echo "DEMO GIT :)";
+echo "DEMO DE GIT :D";
 ?>
